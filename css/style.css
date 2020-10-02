@@ -11,7 +11,8 @@ h1 {
   width: 300px;
   text-align: left;
   color: #8b008b;
-}
+  font-size: 35px;
+  }
 
 h2 {
   font-size: 15px;
@@ -34,12 +35,10 @@ table {
   background-color: hsl(300, 24%, 96%);
 }
 
-
 .top-left-box {
-  margin-top: 200px;
   position: relative;
-  top: -100px;
-  left: 100px;
+  left: 200px;
+  top: 100px;
   width: 450px;
   text-align: left;
   font-size: 15px;
@@ -50,33 +49,33 @@ table {
 }
 
 .top-tab {
-  position: absolute;
-  top: 120px;
-  left: 670px;
+  position: relative;
+  top: -100px;
+  left: 630px;
   color: #8b008b;
 }
 
 .middle-tab {
-  position: absolute;
-  top: 200px;
-  left: 700px;
+  position: relative;
+  top: -80px;
+  left: 680px;
   color: #8b008b;
 }
 
 .bottom-tab {
-  position: absolute;
-  top: 280px;
+  position: relative;
+  top: -60px;
   left: 730px;
   color: #8b008b;
 }
 
 .star {
-  padding: 14px 20px 14px 20px;
+  padding: 12px 18px;
   text-align: left;
 }
 
 .rated {
-  padding: 14px 40px 14px 0;
+  padding: 12px 38px 12px 0;
   text-align: left;
   font-weight: bold;
   width: 250px;
