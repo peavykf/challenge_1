@@ -3,7 +3,7 @@ body {
   text-align: center;
   max-width: 1440px;
   background: url("../images/bg-pattern-top-desktop.svg") no-repeat,
-              url("..//images/bg-pattern-bottom-desktop.svg") no-repeat;
+              */url("..//images/bg-pattern-bottom-desktop.svg") no-repeat;/*
   background-position: left top, 300px 100px;
 }
 
